@@ -1,0 +1,2 @@
+1 testpark Antwerpen 1 1 0 0 1 0 50
+ 0 1 6 100 1 120 0 1 1 1 4
